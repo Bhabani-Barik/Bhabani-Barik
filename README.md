@@ -16,13 +16,13 @@ A passionate front-end developer from India 🇮🇳.
 
 ### I have also familiar with ...
 
-<a href="" title="C" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="C++" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Java" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="C" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="HTML" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="CSS" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="PostgreSQL" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Postman" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="C++" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 
 ### You can also find me on ...
 
