@@ -1,6 +1,6 @@
 ### Hello👋 I'm Bhabani Shankar Barik 🧑‍💻
 
-A passionate front-end developer from India 🇮🇳.
+A passionate Web Engineer from India 🇮🇳.
 
 ### Currently I am learning with ...
 
