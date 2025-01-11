@@ -1,6 +1,6 @@
 ### Hello👋 I'm Bhabani Shankar Barik 🧑‍💻
 
-A passionate aspiring Software Engineer from India .
+A passionate Software Engineer from India .
 
 ### Currently I am learning with ...
 
