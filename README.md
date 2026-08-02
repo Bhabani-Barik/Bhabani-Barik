@@ -35,7 +35,7 @@ A passionate Software Engineer from India .
 <a href="https://www.linkedin.com/in/bhabanishankarbarik21/" title="bhabanishankarbarik21" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="mailto:bhabanishankar.barik21@gmail.com" target="_blank" title="bhabanishankar.barik21@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
 <a href="https://twitter.com/bhabani_21" target="_blank" title="bhabani_21" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/kanha.official_21/" title="bhabani.shankar_barik" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/bhabani.shankar_barik/" title="bhabani.shankar_barik" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>&nbsp;&nbsp;
 
 
 <!--
